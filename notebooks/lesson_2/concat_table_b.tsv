@@ -1,0 +1,18 @@
+transaction_id	quarter	customer_name	transit_code	order_total_amt
+3366	Q2	David Davison	Y14	567
+3367	Q2	Jack Froot	X15	334
+3368	Q2	Dolby Sorand	Y15	543
+3369	Q2	Robert Robertson	X16	100
+3370	Q2	David Davison	Y16	230
+3371	Q2	Jack Froot	X17	332
+3372	Q2	Dolby Sorand	Y17	50
+3373	Q2	Robert Robertson	X18	65
+3374	Q2	David Davison	Y18	80
+3375	Q2	Jack Froot	X19	125
+3376	Q2	Dolby Sorand	Y19	225
+3377	Q2	Robert Robertson	X20	347
+3378	Q2	David Davison	Y20	567
+3379	Q2	Jack Froot	X21	334
+3380	Q2	Dolby Sorand	Y21	543
+3381	Q2	Robert Robertson	X22	100
+3382	Q2	David Davison	Y22	230
